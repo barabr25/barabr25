@@ -35,4 +35,4 @@ Outside coursework, I'm into sports analytics — building NFL and NBA models is
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/dayaabaran) · barabnr25@gmail.com
+[LinkedIn](https://www.linkedin.com/in/dayaabaran-ragunathan-a09432214/) · barabnr25@gmail.com
