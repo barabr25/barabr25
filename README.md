@@ -2,7 +2,7 @@
 
 **B.S. Statistics — Statistical Data Science @ UC Davis** (expected May 2027)
 
-Data science and analytics — I build statistical and machine-learning models that turn messy, real-world data into clear, actionable answers. I care about sound methodology (right metric, no leakage, always a baseline) and explaining results in plain terms a decision-maker can act on.
+Data science and analytics — I build statistical and machine-learning models that turn messy, real-world data into clear, actionable answers. I care about sound methodology and explaining results in plain terms so a decision-maker can act on them.
 
 ---
 
